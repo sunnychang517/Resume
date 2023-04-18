@@ -2,8 +2,8 @@
 
 sunnychang517@gmail.com - [LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, NY
 
-## Content
-[Education](https://github.com/sunnychang517/Resume#education)
+## <div align="center">Content</div>
+[Education](https://github.com/sunnychang517/Resume#education) | [Technical Skills](https://github.com/sunnychang517/Resume#technical-skills) | [Professional Experience](https://github.com/sunnychang517/Resume#professional-experience) | [Data Projects](https://github.com/sunnychang517/Resume#data-projects)
 
 ## <div align="center">Education</div> 
 
