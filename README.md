@@ -10,10 +10,6 @@ Master of Science (M.S) in Applied Analytics
 Brooklyn College, City University of New York - Graduated Dec 2019
 Bachelor of Business Administration (B.B.A.) in Finance
 
-## Relevant Coursework
-
-Applied Text & Natural Language Analytics, Managing Data, Cloud Computing, Frameworks & Methods I, Frameworks & Methods II, Organizational Context, Introduction to R, Introduction to Importing Data in R, Introduction to Data Visualization with ggplot2, Introduction to Data in R, Storytelling with Data, Research Design
-
 ## Skills
 
 "Python" "R" "SQL" "PostgreSQL" "MongoDB" "Tableau" <br>
