@@ -1,23 +1,27 @@
-# Sunny Chang
+# <div align="center">Sunny Chang</div>
 
 sunnychang517@gmail.com - [LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, NY
 
-## Education 
+## Content
+[Education](https://github.com/sunnychang517/Resume/main/README.md#education)
 
-<strong>Columbia University SPS (School of Professional Studies)</strong>, New York, NY - Expected graduate date Aug 2023<br> 
+## <div align="center">Education</div> 
+
+<strong>Columbia University SPS (School of Professional Studies)</strong>, New York, NY - Expected Aug 2023<br>
 Master of Science (M.S) in Applied Analytics
+
 
 <strong>Brooklyn College</strong>, City University of New York - Graduated Dec 2019<br>
 Bachelor of Business Administration (B.B.A.) in Finance
 
-## Skills
+## <div align="center">Technical Skills</div>
 `Python` `R` `SQL` `PostgreSQL` `MongoDB` `Tableau` 
 `Microsoft Power BI Desktop` `Microsoft Office` `Dropbox`
 `Google Analytics` `Google Cloud` `(AWS) Amazon Web Services` 
 `Markdown` `Oracle BI`
 
 
-## Professional Experience
+## <div align="center">Professional Experience</div>
 ### (BCR) BioMimetics Cognitive Robotics Laboratories, New York, NY 
 <div align="right">Jan 2023 - Present</div>   
 
@@ -49,15 +53,15 @@ Bachelor of Business Administration (B.B.A.) in Finance
 presentation.
 + Conducted competitive landscape research via SWOT analysis on company and competitors’ stocks through usage of Bloomberg Terminal, SEC Fillings, and Wall Street Journal.
 
-## Data Projects
-<strong>UNICC (United Nations International Computing Center) & Columbia SPS Think-a-Thon</strong> 
+## <div align="center">Data Projects</div>
+<strong>[UNICC (United Nations International Computing Center) & Columbia SPS Think-a-Thon](https://sps.columbia.edu/news/sps-students-work-un-mentors-present-tech-based-solutions-global-challenges?utm_source=organic&utm_content=NEWS_CDL&utm_medium=social&utm_campaign=NEWS_CDL_social_2021-8-31_UNThinkaThonWinners_article)</strong>
 <div align="right">Jul 2021 - Aug 2021</div>
 
 + Team selected as one of seven finalists (out of 20 teams) to make a positive impact on the world in Cybersecurity and Disaster Preparedness.
 + Initiated and calculated budgets for two alternative solutions, commended by mentor for realistic costs.
 + External researched for creating SaaS and on-premises private cloud platforms for comparative budget analysis.
 
-<strong>Clustering Credit Card User Behavior Analysis</strong> 
+<strong>[Clustering Credit Card User Behavior Analysis](https://github.com/sunnychang517/Clustering-Credit-Card-User-Behavior)</strong> 
 <div align="right">Jun 2021 - Aug 2021</div>
 
 + Utilized R for data preparation and data exploration to conduct analysis with assistance from another team member.
@@ -69,7 +73,7 @@ presentation.
 + Established 12 project management and marketing KPIs for $100,000 sponsorship by SquareSpace to build rapport.
 + Assisted five team members with strategy using surveys for data collection and analysis for the purpose of increasing New York City Chinatown's community engagement. 
 
-<strong>Airbnb Forecast Rental Prices</strong> 
+<strong>[Airbnb Forecast Rental Prices](https://github.com/sunnychang517/Airbnb)</strong> 
 <div align="right">Mar 2021</div>
 
 +	Developed 6 machine learning models to forecast rental prices for Airbnb by finding lowest RMSE (Root Mean Square Error).
