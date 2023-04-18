@@ -1,27 +1,26 @@
 # Sunny Chang
 
-sunnychang517@gmail.com - [LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, 11204
+sunnychang517@gmail.com - [LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, NY
 
 ## Education 
 
-Columbia University SPS (School of Professional Studies), New York, NY - Expected graduate date Aug 2023 
+Columbia University SPS (School of Professional Studies), New York, NY - Expected graduate date Aug 2023<br> 
 Master of Science (M.S) in Applied Analytics
 
-Brooklyn College, City University of New York - Graduated Dec 2019
+Brooklyn College, City University of New York - Graduated Dec 2019<br>
 Bachelor of Business Administration (B.B.A.) in Finance
 
 ## Skills
 
-"Python" "R" "SQL" "PostgreSQL" "MongoDB" "Tableau" <br>
-"Microsoft Power BI Desktop" "Microsoft Office" "Dropbox"<br>
-"Google Analytics" "Google Cloud" "(AWS) Amazon Web Services" <br>
-"Markdown" "HTML" "Oracle BI" <br>
+`Python` `R` `SQL` `PostgreSQL` `MongoDB` `Tableau` 
+`Microsoft Power BI Desktop` `Microsoft Office` `Dropbox`
+`Google Analytics` `Google Cloud` `(AWS) Amazon Web Services` 
+`Markdown` `Oracle BI` 
 
 ## Professional Experience
 ### (BCR) BioMimetics Cognitive Robotics Laboratories, New York, NY -  Jan 2023 - Present                                       
 *Postgraduate Researcher* – Engineering Group
 
-Technologies Used: "R" "Dropbox" 
 + Program in R to perform exponential stretch/undo logarithmic compression of camera's frames and dimensions using matrices and trigonometry to plot fiddler crab movements. 
 + Document R code to help readers have better comprehension of the content in the program. 
 + Successfully troubleshoot installation of R for everyone in BCR Laboratories.
