@@ -3,7 +3,7 @@
 sunnychang517@gmail.com - [LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, NY
 
 ## Content
-[Education](https://github.com/sunnychang517/Resume/main/README.md#education)
+[Education](https://github.com/sunnychang517/Resume#education)
 
 ## <div align="center">Education</div> 
 
