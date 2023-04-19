@@ -59,7 +59,7 @@ presentation.
 
 + Team selected as one of seven finalists (out of 20 teams) to make a positive impact on the world in Cybersecurity and Disaster Preparedness.
 + Initiated and calculated budgets for two alternative solutions, commended by mentor for realistic costs.
-+ External researched for creating SaaS and on-premises private cloud platforms for comparative budget analysis.
++ Researched for creating SaaS and on-premises private cloud platforms for comparative budget analysis.
 
 <strong>[Clustering Credit Card User Behavior Analysis](https://github.com/sunnychang517/Clustering-Credit-Card-User-Behavior)</strong> 
 <div align="right">Jun 2021 - Aug 2021</div>
