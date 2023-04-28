@@ -27,7 +27,7 @@ Bachelor of Business Administration (B.B.A.) in Finance
 
 *Postgraduate Researcher* – Engineering Group
 
-+ Program in R to perform exponential stretch/undo logarithmic compression of camera's frames and dimensions using matrices and trigonometry to plot fiddler crab movements. 
++ Program in R to perform exponential stretch/undo logarithmic compression of camera's frames and dimensions using matrices and trigonometry to plot fiddler crab movements with founder. 
 + Document R code to help readers have better comprehension of the content in the program. 
 + Successfully troubleshoot installation of R for everyone in BCR Laboratories.
 
