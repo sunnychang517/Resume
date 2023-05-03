@@ -41,7 +41,7 @@ Bachelor of Business Administration (B.B.A.) in Finance
 <div align="right">Mar 2020 – Apr 2021</div>
 
 *Workforce Management Analyst*
-+ Identified KPIs in supply and demand reports daily leveraging Verint Impact 360 and Oracle BI to track call center’s performance.
++ Identified KPIs in supply and demand reports daily leveraging Impact 360 and Oracle BI to track call center’s performance.
 + Developed monthly overtime reports using Oracle BI for all levels including supervisors, managers, and directors.
 + Coached senior employees about advanced Excel functions, such as pivot tables, power pivot, and Outlook functions for effective use of current and new software technologies.
 
