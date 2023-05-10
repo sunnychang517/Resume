@@ -1,6 +1,6 @@
 # <div align="center">Sunny Chang</div>
 
-sunnychang517@gmail.com - [LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, NY
+[LinkedIn](https://www.linkedin.com/in/sunnychang517) - [Github](https://github.com/sunnychang517) - Brooklyn, NY
 
 ## <div align="center">Content</div>
 [Education](https://github.com/sunnychang517/Resume#education) | [Technical Skills](https://github.com/sunnychang517/Resume#technical-skills) | [Professional Experience](https://github.com/sunnychang517/Resume#professional-experience) | [Data Projects](https://github.com/sunnychang517/Resume#data-projects)
